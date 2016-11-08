@@ -147,7 +147,7 @@
                 android:layout_gravity="fill"
                 android:layout_columnWeight="1"
                 android:layout_rowWeight="1"
-                android:tag="102"
+                android:tag="101"
                 android:onClick="setText"/>
 
             <Button
@@ -157,7 +157,7 @@
                 android:layout_gravity="fill"
                 android:layout_columnWeight="1"
                 android:layout_rowWeight="1"
-                android:tag="101"
+                android:tag="0"
                 android:onClick="setText"/>
 
         </GridLayout>
